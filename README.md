@@ -1,5 +1,10 @@
-# Welcome to GitHub Desktop!
+# consoleNotes
+Appears it is working only in Linux
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+Kirill's K.D. university project - consoleNotes. ("NUST MISIS")
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+The program which purpose is to make writing notes much easier in the terminal enviroment.
+
+Every commentary was written in Russian. But the UI is in English
+
+Tested with NET.Core v3.1
